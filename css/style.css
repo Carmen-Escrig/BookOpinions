@@ -1,7 +1,6 @@
 body {
     padding-top: 10px;
     font-family: "Nunito", sans-serif;
-    font-optical-sizing: auto;
     font-style: normal;
 }
 
@@ -55,7 +54,6 @@ a {
 
 .playfair-display-text {
     font-family: "Lora", serif;
-    font-optical-sizing: auto;
     font-style: normal;
 }
 
