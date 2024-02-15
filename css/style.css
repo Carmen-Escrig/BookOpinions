@@ -1,0 +1,60 @@
+body {
+    padding: 10px 100px 0px 100px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #603807;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.title {
+    padding: 20px 0px;
+}
+
+#sidebar {
+    min-width: 20%;
+}
+
+#content {
+    min-width: 80%;
+}
+
+.profile-element {
+    padding: 10px;
+}
+
+
+
+#follow {
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.list-group-item img {
+    margin-right: 20px;
+}
+
+#results li {
+    list-style: none;
+    background-color: rgb(230, 230, 230);
+}
+
+#results li {
+    list-style: none;
+    background-color: rgb(230, 230, 230);
+    padding: 10px 5px;
+    border-bottom: 1px rgb(182, 182, 182) solid;
+}
+
+.playfair-display-text {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
